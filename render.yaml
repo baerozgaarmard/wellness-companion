@@ -2,7 +2,7 @@ services:
   - type: web
     name: wellness-companion
     runtime: docker
-    repo: https://github.com/LUFICR/wellness-companion
+    repo: https://github.com/baerozgaarmard/wellness-companion
     plan: free
     region: oregon
     dockerContext: .
